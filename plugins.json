@@ -1,0 +1,15 @@
+{
+  "name": "BetterDiscord Plugin Lista",
+  "description": "Saját plugin gyűjtemény",
+  "plugins": [
+    {
+      "name": "MessageLoggerV2",
+      "author": "Unknown",
+      "url": "https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js"
+    },
+    {
+      "name": "ZeresPluginLibrary",
+      "author": "Zerebos",
+      "url": "https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js"
+    }
+  ]
